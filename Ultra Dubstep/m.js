@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.9";			
+f[1]	= "01 Promises [Skrillex -Nero Remix].mp3";		
+f[2]	= "02 Feel So Close [Nero Dub].mp3";		
+f[3]	= "03 I Need Air.mp3";		
+f[4]	= "04 Get By.mp3";		
+f[5]	= "05 Lick It [Datsik Remix].mp3";		
+f[6]	= "06 Cinema [Skrillex Remix].mp3";		
+f[7]	= "07 Natural Disaster [Skream Remix].mp3";		
+f[8]	= "08 Off With Their Heads [Bare Noize Remix].mp3";		
+f[9]	= "09 Eyes [Alvin Risk Remix].mp3";		
+f[10]	= "10 Cudi the Kid.mp3";		
+f[11]	= "11 Snap Ya Neck Back [Club Version Clean][Version].mp3";		
+f[12]	= "12 Crank.mp3";		
+f[13]	= "13 Bullets [L-Wiz Remix].mp3";		
+f[14]	= "14 You Got to Go [Seven Lions Remix].mp3";		
+f[15]	= "15 Raise Your Weapon [Noisia Remix].mp3";		
